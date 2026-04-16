@@ -4,3 +4,8 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+
+https://iptv-org.github.io/iptv/index.m3u
+https://iptv-org.github.io/iptv/languages/zh.m3u
+https://i.mjh.nz/PlutoTV/all.m3u8
+https://i.mjh.nz/SamsungTVPlus/all.m3u8

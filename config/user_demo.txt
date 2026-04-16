@@ -1,0 +1,20 @@
+央视频道,#genre#
+cctv-1
+
+自定义频道分类,#genre#
+#马来西亚频道（RTM）
+TV1,http://rtm1-live.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3640000.m3u8
+TV2,http://rtm2-live.secureswiftcontent.com/Origin01/ngrp:RTM2/chunklist_b3640000.m3u8
+TV Okey,http://rtmokey-live.secureswiftcontent.com/Origin01/ngrp:RTM2/chunklist_b3640000.m3u8
+
+#新闻频道
+Bernama TV,http://203.115.72.66:1935/live/mp4:bernamatv.stream/playlist.m3u8
+Awani,http://astro2.rastream.com/awani/playlist.m3u8
+
+#国际频道（马来西亚常看）
+Channel NewsAsia,http://d2e1asnsl7br7n.cloudfront.net/cna.m3u8
+Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
+#娱乐/综合（备用）
+TV3 (备用源),http://example.com/tv3.m3u8
+8TV (备用源),http://example.com/8tv.m3u8

@@ -1,0 +1,9 @@
+ID: 8681184505628286750, 名称: TV1, 接口: http://rtm1-live.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3640000.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: 1879985383148877181, 名称: Channel NewsAsia, 接口: http://d2e1asnsl7br7n.cloudfront.net/cna.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: 1318378415801659395, 名称: TV2, 接口: http://rtm2-live.secureswiftcontent.com/Origin01/ngrp:RTM2/chunklist_b3640000.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: 7419435317964375538, 名称: TV Okey, 接口: http://rtmokey-live.secureswiftcontent.com/Origin01/ngrp:RTM2/chunklist_b3640000.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: -7709952672128960948, 名称: Al Jazeera, 接口: http://live-hls-web-aje.getaj.net/AJE/01.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: -8393065620064360174, 名称: 8TV (备用源), 接口: http://example.com/8tv.m3u8, 来源: 本地源, 协议类型: ipv6, 位置: 美国, 运营商: CloudFlare Inc., 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: 2000930664201338272, 名称: TV3 (备用源), 接口: http://example.com/tv3.m3u8, 来源: 本地源, 协议类型: ipv6, 位置: 美国, 运营商: CloudFlare Inc., 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: -8285661704658550937, 名称: Bernama TV, 接口: http://203.115.72.66:1935/live/mp4:bernamatv.stream/playlist.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: 印度, 运营商: , 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
+ID: 3475802184374632933, 名称: Awani, 接口: http://astro2.rastream.com/awani/playlist.m3u8, 来源: 本地源, 协议类型: ipv4, 位置: None, 运营商: None, 延迟: -1 ms, 速率: 0.00 M/s, 分辨率: None, 帧率: 未知, 视频编解码器: 未知, 音频编解码器: 未知
